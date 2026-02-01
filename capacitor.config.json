@@ -1,0 +1,8 @@
+{
+    "appId": "com.pomodoro.forest",
+    "appName": "Forest Focus",
+    "webDir": "dist",
+    "server": {
+        "androidScheme": "https"
+    }
+}
