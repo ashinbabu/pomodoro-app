@@ -31,7 +31,7 @@ Forest Focus is a gamified Pomodoro timer application designed to help you stay 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ashinbabu/pomodoro-app.git
    cd "pomodoro app"
    ```
 
